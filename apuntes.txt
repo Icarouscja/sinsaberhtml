@@ -3,4 +3,7 @@ git marge cabecera -m "mensahe" << esto funciona de master a cabecera, si lo hac
 git checkout rama >> cambiar de ramas
 
 es merge,,, git merge cabecera -m "mensaje"
+git remote add origin link.git
+git remote -v
+
 
