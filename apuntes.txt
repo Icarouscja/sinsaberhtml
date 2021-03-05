@@ -1,0 +1,6 @@
+git commit -am "mensaje"
+git marge cabecera -m "mensahe" << esto funciona de master a cabecera, si lo haces al reves la cabecera se transforma en master
+git checkout rama >> cambiar de ramas
+
+es merge,,, git merge cabecera -m "mensaje"
+
